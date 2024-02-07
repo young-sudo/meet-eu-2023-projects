@@ -1,8 +1,8 @@
 # Meet-EU 2023
 
-This is a **fork** of the [original repository](https://github.com/cu-bioinformatics/meet-eu-2023-projects) and only contains the works of team Warsaw3.
+This is a **fork** of the [original repository](https://github.com/cu-bioinformatics/meet-eu-2023-projects) and only contains the works of team **Warsaw3**.
 
-**Contributors**:
+**Team Members**:
 - [Younginn Park](https://github.com/young-sudo)
 - [Mateusz Chojnacki](https://github.com/M-Chojnacki6)
 - [Łukasz Milewski](https://github.com/lukaszmilewski)
